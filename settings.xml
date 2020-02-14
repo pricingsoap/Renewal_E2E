@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="0b98c977-ee44-403b-941f-60f0a17d07b6" activeEnvironment="Default environment" name="242RoadRenewalE2E" lastOpened="2018-12-24T09:47:54.833Z" resourceRoot="${projectDir}" soapui-version="6.0.0" encryptionMode="Not encrypted" updated="3.0.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="0b98c977-ee44-403b-941f-60f0a17d07b6fileName">242RoadRenewalE2E-soapui-project</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:requirements/>
+  <con:properties/>
+  <con:wssContainer/>
+  <con:databaseConnectionContainer/>
+  <con:jmsConnectionContainer/>
+  <con:oAuth2ProfileContainer/>
+  <con:oAuth1ProfileContainer/>
+  <con:authRepository/>
+  <con:tags/>
+</con:soapui-project>
